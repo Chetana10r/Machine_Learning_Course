@@ -41,4 +41,4 @@ def divide(a,b):
 add(10,15)
 substract(15,10)
 multiply(10,20)
-divide(20,10)
+divide(20,0)

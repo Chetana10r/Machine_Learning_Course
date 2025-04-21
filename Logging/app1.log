@@ -2,3 +2,11 @@
 2025-04-25 15:40:19-ArithmeticApp-DEBUG-Substracting 15 - 10 = 5
 2025-04-25 15:40:19-ArithmeticApp-DEBUG-Multipyling 10 * 20 = 200
 2025-04-25 15:40:19-ArithmeticApp-DEBUG-Dividing 20 / 10 = 2.0
+2025-04-25 15:41:58-ArithmeticApp-DEBUG-Adding 10 + 15 = 25
+2025-04-25 15:41:58-ArithmeticApp-DEBUG-Substracting 15 - 10 = 5
+2025-04-25 15:41:58-ArithmeticApp-DEBUG-Multipyling 10 * 20 = 200
+2025-04-25 15:41:58-ArithmeticApp-DEBUG-Dividing 20 / 10 = 2.0
+2025-04-25 15:42:06-ArithmeticApp-DEBUG-Adding 10 + 15 = 25
+2025-04-25 15:42:06-ArithmeticApp-DEBUG-Substracting 15 - 10 = 5
+2025-04-25 15:42:06-ArithmeticApp-DEBUG-Multipyling 10 * 20 = 200
+2025-04-25 15:42:06-ArithmeticApp-ERROR-Division by zero error
